@@ -1,5 +1,6 @@
 # Interview_LT
 A simple interview question-keyword generating exe
+Built with python
 
 ## Purpose and Usage
 Simple interview program that fetches data(questions towards the interviewee) from google forms via google sheets API, and sends this data to openAI. OpenAI extracts keywords from these questions and places them randomly on screen.
