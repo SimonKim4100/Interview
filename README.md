@@ -10,3 +10,4 @@ This was used in real interviews. (Check author's github webpage)
 - auth.py: Authrization for google sheets. Requires Google Sheets API --> json file.
 - response_generator.py: Generates response from openAI, requires openai_key.
 - main.py: Creates window and buttons with data passed from auth and response_generator
+- assistant(optional): This is an optional file. Replace response_generator with this if you want to use an assistant instead. For more info on assistants, check OpenAI.
